@@ -1,4 +1,4 @@
 jaguar
 ======
 
-IRLab code for the Dr. Robot Jaguar platform
+ERL drivers for the Dr. Robot Jaguar platform
